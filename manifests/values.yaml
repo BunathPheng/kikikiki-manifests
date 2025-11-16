@@ -1,8 +1,8 @@
 namespace: smartops-api
 
 image:
-  imageRepository: docker.io/phengbunath/kikikiki
-  tag: 1
+  imageRepository: phengbunath/kikikiki
+  tag: 2
 
 service:
   type: ClusterIP
